@@ -52,19 +52,6 @@ Atuo na otimização de fluxos internos, criação de APIs e ETLs, aplicando boa
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=helomalves&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helomalves&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=helomalves&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
 ## 💬 Citação do Dia
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
