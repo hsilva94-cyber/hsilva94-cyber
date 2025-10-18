@@ -52,13 +52,6 @@ Atuo na otimização de fluxos internos, criação de APIs e ETLs, aplicando boa
 
 ---
 
-## 🚀 Projetos em destaque
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helomalves&repo=api-produtos&theme=tokyonight)](https://github.com/helomalves/api-produtos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helomalves&repo=projeto-precos&theme=tokyonight)](https://github.com/helomalves/projeto-precos)
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
