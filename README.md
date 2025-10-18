@@ -14,7 +14,7 @@
 ## 👨‍💻 Sobre mim
 
 Sou **Desenvolvedor .NET e Python**, com foco em **automação de processos**, **integração de sistemas** e **arquitetura de microsserviços**.  
-Atuo na otimização de fluxos internos, criação de APIs e ETLs, aplicando boas práticas como **SOLID**, **Clean Code** e **Design Patterns**.  
+Atuo na otimização de fluxos internos, criação de APIs e ETLs, aplicando boas práticas como **SOLID**, **Clean Code** e **Design Patterns**.
 
 🚀 Sempre em busca de aprendizado contínuo e novas formas de unir **eficiência técnica** com **inovação prática**.  
 💬 Gosto de compartilhar conhecimento e trocar ideias sobre **Azure**, **automação**, **IA aplicada** e **engenharia de software**.
@@ -77,7 +77,11 @@ Atuo na otimização de fluxos internos, criação de APIs e ETLs, aplicando boa
 ## 🐍 Contribuições em forma de Cobra
 
 <p align="center">
-  <img src="https://github.com/helomalves/helomalves/blob/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hsilva94-cyber/hsilva94-cyber/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/hsilva94-cyber/hsilva94-cyber/blob/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://github.com/hsilva94-cyber/hsilva94-cyber/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
