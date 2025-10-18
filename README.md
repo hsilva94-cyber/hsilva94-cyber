@@ -75,7 +75,7 @@ Atuo na otimização de fluxos internos, criação de APIs e ETLs, aplicando boa
 ## 🏆 Troféus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=helomalves&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=helomalves&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus do GitHub" />
 </p>
 
 ---
@@ -104,7 +104,9 @@ Atuo na otimização de fluxos internos, criação de APIs e ETLs, aplicando boa
 
 ## 🐍 Contribuições em forma de Cobra
 
-![Snake animation](https://github.com/helomalves/helomalves/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/helomalves/helomalves/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
