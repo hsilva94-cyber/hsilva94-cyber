@@ -62,10 +62,10 @@ API modular em .NET 8 com autenticação JWT, Swagger, Serilog e arquitetura lim
   <a href="https://linkedin.com/in/helomalves">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:helom.alves@email.com">
+  <a href="mailto:hsilva94@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/helomalves">
+  <a href="https://github.com/hsilva94-cyber">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
