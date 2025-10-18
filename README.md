@@ -72,14 +72,6 @@ Atuo na otimização de fluxos internos, criação de APIs e ETLs, aplicando boa
 
 ---
 
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=helomalves&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus do GitHub" />
-</p>
-
----
-
 ## 💬 Citação do Dia
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
