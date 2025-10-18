@@ -24,7 +24,7 @@ Atuo na otimização de fluxos internos, criação de APIs e ETLs, aplicando boa
 ## 🧠 Habilidades Técnicas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,azure,sqlserver,git,github,powershell,vscode,visualstudio,html,css,js&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,azure,git,github,powershell,vscode,visualstudio,html,css,jsdevops,angular&perline=7
 </p>
 
 ---
