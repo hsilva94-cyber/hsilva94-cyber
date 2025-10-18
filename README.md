@@ -1,49 +1,61 @@
-<!-- Banner de boas-vindas -->
-<h1 align="center">👋 Olá! Eu sou o Helom Alves</h1>
+<!-- ========================================================== -->
+<!-- 🧑‍💻 GitHub Profile - Helom Alves -->
+<!-- ========================================================== -->
 
+<!-- ✨ Cabeçalho animado -->
 <p align="center">
-  💻 Desenvolvedor .NET | Python | SQL Server <br>
-  🚀 Entusiasta de automação, arquitetura de sistemas e IA <br>
-  🌎 Apaixonado por criar soluções que simplificam processos e geram impacto real
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Helom+Alves!;Desenvolvedor+.NET+%26+Python;Especialista+em+Automação+%26+Microsserviços;Apaixonado+por+tecnologia+e+inovação!" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou desenvolvedor de software com experiência em **.NET**, **Python** e **banco de dados SQL Server**.  
-Atuo no desenvolvimento e otimização de processos, **automação de rotinas**, **ETL**, e **integração de sistemas**.  
+Sou **Desenvolvedor .NET e Python**, com foco em **automação de processos**, **integração de sistemas** e **arquitetura de microsserviços**.  
+Atuo na otimização de fluxos internos, criação de APIs e ETLs, aplicando boas práticas como **SOLID**, **Clean Code** e **Design Patterns**.  
 
-Gosto de aprender continuamente, aplicar boas práticas como **SOLID**, **Clean Code** e **padrões de projeto**,  
-além de explorar novas tecnologias como **Azure**, **microsserviços** e **RPA**.
+🚀 Sempre em busca de aprendizado contínuo e novas formas de unir **eficiência técnica** com **inovação prática**.  
+💬 Gosto de compartilhar conhecimento e trocar ideias sobre **Azure**, **automação**, **IA aplicada** e **engenharia de software**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🧠 Habilidades Técnicas
 
 <p align="center">
-  <!-- Back-end -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSIS-FFD700?style=for-the-badge&logo=databricks&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,azure,sqlserver,git,github,powershell,vscode,visualstudio,html,css,js&perline=7" />
 </p>
 
 ---
 
-## 🧩 Projetos em destaque
+## 🎓 Certificações Microsoft
 
-🔹 **[Automação de Coleta de Preços](https://github.com/helomalves/projeto-precos)**  
-Automação em Python para capturar preços de produtos em múltiplos sites, com processamento paralelo e exportação em Excel (NPOI).
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20%7C%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-AI--900%20%7C%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
-🔹 **[ETL via SSIS](https://github.com/helomalves/etl-ssis)**  
-Pipeline de dados para integração entre ambientes de produção e homologação com controle de execução e truncamento automático.
+> 💡 Certificado pela **Microsoft** em fundamentos de **Azure (AZ-900)** e **Inteligência Artificial (AI-900)**, com foco em computação em nuvem e aplicações de IA no ecossistema Azure.
 
-🔹 **[API de Produtos com Microsserviços](https://github.com/helomalves/api-produtos)**  
-API modular em .NET 8 com autenticação JWT, Swagger, Serilog e arquitetura limpa.
+---
+
+## 🛠️ Tecnologias que uso no dia a dia
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-FFD700?style=for-the-badge&logo=databricks&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+---
+
+## 🚀 Projetos em destaque
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helomalves&repo=api-produtos&theme=tokyonight)](https://github.com/helomalves/api-produtos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helomalves&repo=projeto-precos&theme=tokyonight)](https://github.com/helomalves/projeto-precos)
 
 ---
 
@@ -54,28 +66,48 @@ API modular em .NET 8 com autenticação JWT, Swagger, Serilog e arquitetura lim
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helomalves&layout=compact&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=helomalves&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
 ---
 
-## 🌐 Contato
+## 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=helomalves&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+
+---
+
+## 💬 Citação do Dia
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🌐 Onde me encontrar
 
 <p align="center">
   <a href="https://linkedin.com/in/helomalves">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:hsilva94@hotmail.com">
+  <a href="mailto:helom.alves@email.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/hsilva94-cyber">
+  <a href="https://github.com/helomalves">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## 🐍 Contribuições em forma de Cobra
+
+![Snake animation](https://github.com/helomalves/helomalves/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=helomalves&color=blueviolet" alt="Contador de visitas" />
 </p>
-
----
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
