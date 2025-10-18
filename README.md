@@ -77,3 +77,4 @@ API modular em .NET 8 com autenticação JWT, Swagger, Serilog e arquitetura lim
 </p>
 
 ---
+![Snake animation](https://github.com/helomalves/helomalves/blob/output/github-contribution-grid-snake.svg)
