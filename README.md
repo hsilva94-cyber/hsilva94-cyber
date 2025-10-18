@@ -74,7 +74,7 @@ Atuo na otimização de fluxos internos, criação de APIs e ETLs, aplicando boa
 
 ---
 
-## 🐍 Contribuições em forma de Cobra
+## 🐍 Contribuições
 
 <p align="center">
   <picture>
